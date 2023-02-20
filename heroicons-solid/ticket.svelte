@@ -1,0 +1,1 @@
+<svg {...$$props} fill="currentColor" aria-hidden="true" viewBox="0 0 20 20"><path d="M2 6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2a2 2 0 1 0 0 4v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-2a2 2 0 1 0 0-4V6z"/></svg>

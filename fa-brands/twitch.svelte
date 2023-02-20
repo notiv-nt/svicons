@@ -1,0 +1,1 @@
+<svg {...$$props} fill="currentColor" aria-hidden="true" data-icon="twitch" data-prefix="fab" viewBox="0 0 512 512"><path fill="currentColor" d="M391.2 103.5h-38.7v109.7h38.63zM285 103h-38.6v109.8H285zM120.8 0 24.31 91.42V420.6H140.1V512l96.53-91.42h77.25L487.7 256V0zm328.3 237.8-77.22 73.12H294.6l-67.6 64v-64h-86.9V36.58h309z"/></svg>

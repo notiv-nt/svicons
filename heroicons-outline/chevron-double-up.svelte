@@ -1,0 +1,1 @@
+<svg {...$$props} fill="none" stroke="currentColor" aria-hidden="true" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m5 11 7-7 7 7M5 19l7-7 7 7"/></svg>

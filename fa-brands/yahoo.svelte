@@ -1,0 +1,1 @@
+<svg {...$$props} fill="currentColor" aria-hidden="true" data-icon="yahoo" data-prefix="fab" viewBox="0 0 512 512"><path fill="currentColor" d="M223.7 141.1 167 284.2l-56-143.1H14.93L120.8 390.2 82.19 480h94.17L317.3 141.1zm105.4 135.8a58.22 58.22 0 1 0 58.22 58.22 58.22 58.22 0 0 0-58.22-58.22zM394.6 32l-93 223.5h104.8L499.1 32z"/></svg>

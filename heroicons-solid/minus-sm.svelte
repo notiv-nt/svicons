@@ -1,0 +1,1 @@
+<svg {...$$props} fill="currentColor" aria-hidden="true" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5 10a1 1 0 0 1 1-1h8a1 1 0 1 1 0 2H6a1 1 0 0 1-1-1z" clip-rule="evenodd"/></svg>
